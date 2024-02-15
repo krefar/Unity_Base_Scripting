@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScaleBreath : MonoBehaviour
+public class Magnifier : MonoBehaviour
 {
     [SerializeField] private Vector3 _maxSize;
     [SerializeField] private Vector3 _minSize;
